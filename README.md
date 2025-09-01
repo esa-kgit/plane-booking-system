@@ -1,2 +1,2 @@
 # ✈️ plane-booking-system
-removed from local finder 1/9
+removed locally 1/9
