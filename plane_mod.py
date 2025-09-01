@@ -2,7 +2,7 @@ from seat_mod import Seat, prices
 import time
 
 class Plane:
-    def __init__(self, model, seat):
+    def __init__(self, model, seats):
         self.model = model
         self.seats = seats
 
