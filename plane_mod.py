@@ -1,5 +1,5 @@
 from seat_mod import Seat, prices
-import time, math
+import time
 
 class Plane:
     def __init__(self, model, seats):
